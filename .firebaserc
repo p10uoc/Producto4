@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dinaaplayerp10": {
+      "hosting": {
+        "ProyectoAngularP4": [
+          "dinaaplayerp10"
+        ]
+      }
+    }
+  }
+}

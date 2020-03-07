@@ -118,8 +118,13 @@
               "devServerTarget": "ProyectoAngularP4:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "ProyectoAngularP4"
 }
